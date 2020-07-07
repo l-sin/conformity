@@ -1,3 +1,4 @@
+/backups
 /data/Lgalaxies/*
 !/data/Lgalaxies/process
 /data/SDSS
@@ -9,13 +10,16 @@
 /outputs
 __pycache__/
 /sketches
-/SLH2020_pub/*
-!/SLH2020_pub/scripts
 /snippets
 /Tinker_group_finder
 /trash
+
+/SLH2020_pub/data/LGalaxies/*
+/SLH2020_pub/data/SDSS/*
+/SLH2020_pub/figures/*
+/SLH2020_pub/investigations
+
 /*.py
 !/two_point_tools.py
-*.zip
 *.ipynb
 !plots.ipynb
